@@ -12,7 +12,8 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ *//*
+
 
 package by.skoriyvladislav.simple;
 
@@ -21,11 +22,13 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+*/
 /**
  * Tests for {@link SampleSimpleApplication}.
- * 
+ *
  * @author Dave Syer
- */
+ *//*
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = SampleSimpleApplication.class)
 public class SpringTestSampleSimpleApplicationTests {
@@ -35,3 +38,4 @@ public class SpringTestSampleSimpleApplicationTests {
 	}
 
 }
+*/

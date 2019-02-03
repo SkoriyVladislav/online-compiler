@@ -12,7 +12,8 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ *//*
+
 
 package by.skoriyvladislav.simple;
 
@@ -24,16 +25,15 @@ import org.springframework.boot.test.OutputCapture;
 
 import static org.junit.Assert.assertTrue;
 
+*/
 /**
  * Tests for {@link SampleSimpleApplication}.
  * 
  * @author Dave Syer
  * @author Phillip Webb
- */
-public class SampleSimpleApplicationTests {
+ *//*
 
-	@Rule
-	public OutputCapture outputCapture = new OutputCapture();
+public class SampleSimpleApplicationTests {
 
 	private String profiles;
 
@@ -67,3 +67,4 @@ public class SampleSimpleApplicationTests {
 	}
 
 }
+*/
